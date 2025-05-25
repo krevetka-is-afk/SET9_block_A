@@ -1,0 +1,3 @@
+/Users/sergejrastvorov/CLionProjects/SET9/cmake-build-debug/CMakeFiles/SET9.dir
+/Users/sergejrastvorov/CLionProjects/SET9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergejrastvorov/CLionProjects/SET9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

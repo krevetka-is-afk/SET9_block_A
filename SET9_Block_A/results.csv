@@ -1,0 +1,361 @@
+Size,Generator,Algorithm,TimeMs,Comparisons
+100,random,MergeSort,0.373209,844
+100,random,QuickSort,0.070041,606
+100,random,MSD Radix,0.342833,0
+100,random,MSD+Quick,0.048625,50
+100,reversed,MergeSort,0.320666,517
+100,reversed,QuickSort,0.226,2653
+100,reversed,MSD Radix,0.309667,0
+100,reversed,MSD+Quick,0.0405,68
+100,almost_sorted,MergeSort,0.266625,794
+100,almost_sorted,QuickSort,0.083667,1037
+100,almost_sorted,MSD Radix,0.283417,0
+100,almost_sorted,MSD+Quick,0.038667,62
+200,random,MergeSort,0.657083,2116
+200,random,QuickSort,0.115792,1434
+200,random,MSD Radix,0.517875,0
+200,random,MSD+Quick,0.070709,210
+200,reversed,MergeSort,0.489958,1210
+200,reversed,QuickSort,0.456,7005
+200,reversed,MSD Radix,0.499,0
+200,reversed,MSD+Quick,0.072667,288
+200,almost_sorted,MergeSort,0.424583,1753
+200,almost_sorted,QuickSort,0.141667,2195
+200,almost_sorted,MSD Radix,0.461917,0
+200,almost_sorted,MSD+Quick,0.060542,234
+300,random,MergeSort,0.750042,3610
+300,random,QuickSort,0.154875,2457
+300,random,MSD Radix,0.544917,0
+300,random,MSD+Quick,0.089834,408
+300,reversed,MergeSort,0.638417,2066
+300,reversed,QuickSort,0.54625,11135
+300,reversed,MSD Radix,0.593792,0
+300,reversed,MSD+Quick,0.093667,599
+300,almost_sorted,MergeSort,0.553,2905
+300,almost_sorted,QuickSort,0.241917,5134
+300,almost_sorted,MSD Radix,0.495875,0
+300,almost_sorted,MSD+Quick,0.081125,466
+400,random,MergeSort,0.914708,5155
+400,random,QuickSort,0.169708,3179
+400,random,MSD Radix,0.550333,0
+400,random,MSD+Quick,0.110625,686
+400,reversed,MergeSort,0.7665,2990
+400,reversed,QuickSort,0.679166,15949
+400,reversed,MSD Radix,0.635,0
+400,reversed,MSD+Quick,0.113458,1046
+400,almost_sorted,MergeSort,0.77525,4102
+400,almost_sorted,QuickSort,0.324333,7616
+400,almost_sorted,MSD Radix,0.514792,0
+400,almost_sorted,MSD+Quick,0.10425,756
+500,random,MergeSort,0.988583,6725
+500,random,QuickSort,0.207083,4441
+500,random,MSD Radix,0.561083,0
+500,random,MSD+Quick,0.12425,1010
+500,reversed,MergeSort,0.81475,4280
+500,reversed,QuickSort,0.792167,20674
+500,reversed,MSD Radix,0.546166,0
+500,reversed,MSD+Quick,0.130041,1641
+500,almost_sorted,MergeSort,0.696167,4852
+500,almost_sorted,QuickSort,0.378,10406
+500,almost_sorted,MSD Radix,0.475834,0
+500,almost_sorted,MSD+Quick,0.107125,1148
+600,random,MergeSort,1.11392,8540
+600,random,QuickSort,0.21975,5061
+600,random,MSD Radix,0.573625,0
+600,random,MSD+Quick,0.139458,1318
+600,reversed,MergeSort,0.927958,5029
+600,reversed,QuickSort,0.790042,23918
+600,reversed,MSD Radix,0.554875,0
+600,reversed,MSD+Quick,0.154,2316
+600,almost_sorted,MergeSort,0.823042,6851
+600,almost_sorted,QuickSort,0.420125,12975
+600,almost_sorted,MSD Radix,0.541792,0
+600,almost_sorted,MSD+Quick,0.128,1574
+700,random,MergeSort,1.24108,10192
+700,random,QuickSort,0.2445,5883
+700,random,MSD Radix,0.607542,0
+700,random,MSD+Quick,0.156583,1708
+700,reversed,MergeSort,0.990542,6124
+700,reversed,QuickSort,0.839625,28180
+700,reversed,MSD Radix,0.6,0
+700,reversed,MSD+Quick,0.173958,3180
+700,almost_sorted,MergeSort,0.963084,8584
+700,almost_sorted,QuickSort,0.539417,16872
+700,almost_sorted,MSD Radix,0.571583,0
+700,almost_sorted,MSD+Quick,0.1475,2015
+800,random,MergeSort,1.39829,12212
+800,random,QuickSort,0.279417,7491
+800,random,MSD Radix,0.66325,0
+800,random,MSD+Quick,0.172917,2031
+800,reversed,MergeSort,1.181,7185
+800,reversed,QuickSort,0.998,32396
+800,reversed,MSD Radix,0.627459,0
+800,reversed,MSD+Quick,0.229958,4134
+800,almost_sorted,MergeSort,1.10375,9798
+800,almost_sorted,QuickSort,0.648209,20317
+800,almost_sorted,MSD Radix,0.610083,0
+800,almost_sorted,MSD+Quick,0.200792,2484
+900,random,MergeSort,1.51188,14060
+900,random,QuickSort,0.296208,8061
+900,random,MSD Radix,0.641541,0
+900,random,MSD+Quick,0.220583,2643
+900,reversed,MergeSort,1.30125,8229
+900,reversed,QuickSort,1.12029,37030
+900,reversed,MSD Radix,0.734083,0
+900,reversed,MSD+Quick,0.255958,4925
+900,almost_sorted,MergeSort,1.20762,10862
+900,almost_sorted,QuickSort,0.546,17136
+900,almost_sorted,MSD Radix,0.706917,0
+900,almost_sorted,MSD+Quick,0.197,3051
+1000,random,MergeSort,1.76871,15956
+1000,random,QuickSort,0.381708,10331
+1000,random,MSD Radix,0.756916,0
+1000,random,MSD+Quick,0.2195,2975
+1000,reversed,MergeSort,1.48671,9555
+1000,reversed,QuickSort,1.22383,40904
+1000,reversed,MSD Radix,0.778667,0
+1000,reversed,MSD+Quick,0.3035,6154
+1000,almost_sorted,MergeSort,1.36283,12482
+1000,almost_sorted,QuickSort,0.861791,27832
+1000,almost_sorted,MSD Radix,0.764792,0
+1000,almost_sorted,MSD+Quick,0.239209,3641
+1100,random,MergeSort,2.01454,17890
+1100,random,QuickSort,0.409417,10758
+1100,random,MSD Radix,0.888042,0
+1100,random,MSD+Quick,0.26025,3421
+1100,reversed,MergeSort,1.84187,10631
+1100,reversed,QuickSort,1.29596,46370
+1100,reversed,MSD Radix,0.797667,0
+1100,reversed,MSD+Quick,0.370084,7586
+1100,almost_sorted,MergeSort,1.688,13265
+1100,almost_sorted,QuickSort,0.977333,31781
+1100,almost_sorted,MSD Radix,0.857,0
+1100,almost_sorted,MSD+Quick,0.263166,4202
+1200,random,MergeSort,2.36338,19685
+1200,random,QuickSort,0.493208,11683
+1200,random,MSD Radix,0.908542,0
+1200,random,MSD+Quick,0.270416,3767
+1200,reversed,MergeSort,1.90904,11593
+1200,reversed,QuickSort,1.60892,50688
+1200,reversed,MSD Radix,0.943292,0
+1200,reversed,MSD+Quick,0.393292,8961
+1200,almost_sorted,MergeSort,1.81858,15747
+1200,almost_sorted,QuickSort,0.833583,25778
+1200,almost_sorted,MSD Radix,0.836125,0
+1200,almost_sorted,MSD+Quick,0.287875,4819
+1300,random,MergeSort,2.49667,22035
+1300,random,QuickSort,0.494916,14082
+1300,random,MSD Radix,1.0655,0
+1300,random,MSD+Quick,0.310709,4287
+1300,reversed,MergeSort,2.14292,12306
+1300,reversed,QuickSort,1.66271,55094
+1300,reversed,MSD Radix,1.02146,0
+1300,reversed,MSD+Quick,0.449583,10276
+1300,almost_sorted,MergeSort,1.85933,15826
+1300,almost_sorted,QuickSort,1.26117,40668
+1300,almost_sorted,MSD Radix,1.00025,0
+1300,almost_sorted,MSD+Quick,0.340167,5578
+1400,random,MergeSort,2.66646,24092
+1400,random,QuickSort,0.556333,15354
+1400,random,MSD Radix,1.12671,0
+1400,random,MSD+Quick,0.368,4767
+1400,reversed,MergeSort,2.16454,13308
+1400,reversed,QuickSort,1.87462,60374
+1400,reversed,MSD Radix,1.1035,0
+1400,reversed,MSD+Quick,0.518667,11942
+1400,almost_sorted,MergeSort,2.05942,18683
+1400,almost_sorted,QuickSort,1.38587,42658
+1400,almost_sorted,MSD Radix,1.1015,0
+1400,almost_sorted,MSD+Quick,0.359209,6196
+1500,random,MergeSort,2.87042,26046
+1500,random,QuickSort,0.554834,14611
+1500,random,MSD Radix,1.25533,0
+1500,random,MSD+Quick,0.376625,5343
+1500,reversed,MergeSort,2.38133,14708
+1500,reversed,QuickSort,2.09938,65103
+1500,reversed,MSD Radix,1.24008,0
+1500,reversed,MSD+Quick,0.589541,13678
+1500,almost_sorted,MergeSort,2.0865,19460
+1500,almost_sorted,QuickSort,1.54971,49349
+1500,almost_sorted,MSD Radix,1.20558,0
+1500,almost_sorted,MSD+Quick,0.392542,6890
+1600,random,MergeSort,3.04004,28064
+1600,random,QuickSort,0.613667,16601
+1600,random,MSD Radix,1.31792,0
+1600,random,MSD+Quick,0.409584,5982
+1600,reversed,MergeSort,2.65421,16895
+1600,reversed,QuickSort,2.27742,71200
+1600,reversed,MSD Radix,1.28308,0
+1600,reversed,MSD+Quick,0.638917,15060
+1600,almost_sorted,MergeSort,2.37513,21819
+1600,almost_sorted,QuickSort,1.68879,53165
+1600,almost_sorted,MSD Radix,1.19621,0
+1600,almost_sorted,MSD+Quick,0.427541,7554
+1700,random,MergeSort,3.31304,30525
+1700,random,QuickSort,0.687459,17669
+1700,random,MSD Radix,1.50358,0
+1700,random,MSD+Quick,0.482292,6410
+1700,reversed,MergeSort,2.79204,16966
+1700,reversed,QuickSort,2.32642,75714
+1700,reversed,MSD Radix,1.45217,0
+1700,reversed,MSD+Quick,0.683584,17002
+1700,almost_sorted,MergeSort,2.46617,22895
+1700,almost_sorted,QuickSort,1.77988,58047
+1700,almost_sorted,MSD Radix,1.50263,0
+1700,almost_sorted,MSD+Quick,0.45975,8312
+1800,random,MergeSort,3.48488,32480
+1800,random,QuickSort,0.806834,19683
+1800,random,MSD Radix,1.63158,0
+1800,random,MSD+Quick,0.45075,7093
+1800,reversed,MergeSort,2.86379,19111
+1800,reversed,QuickSort,2.41312,79131
+1800,reversed,MSD Radix,1.52287,0
+1800,reversed,MSD+Quick,0.765,18946
+1800,almost_sorted,MergeSort,2.631,24900
+1800,almost_sorted,QuickSort,1.98992,62729
+1800,almost_sorted,MSD Radix,1.53246,0
+1800,almost_sorted,MSD+Quick,0.539,9173
+1900,random,MergeSort,3.67563,34813
+1900,random,QuickSort,0.774833,20732
+1900,random,MSD Radix,1.68975,0
+1900,random,MSD+Quick,0.499917,7487
+1900,reversed,MergeSort,3.06017,20736
+1900,reversed,QuickSort,2.79929,86457
+1900,reversed,MSD Radix,1.69071,0
+1900,reversed,MSD+Quick,0.834875,20905
+1900,almost_sorted,MergeSort,2.78425,25714
+1900,almost_sorted,QuickSort,1.97096,64712
+1900,almost_sorted,MSD Radix,1.53337,0
+1900,almost_sorted,MSD+Quick,0.511459,9931
+2000,random,MergeSort,3.77767,37036
+2000,random,QuickSort,0.908709,20736
+2000,random,MSD Radix,1.73292,0
+2000,random,MSD+Quick,0.50725,7880
+2000,reversed,MergeSort,3.27558,21927
+2000,reversed,QuickSort,2.62646,88975
+2000,reversed,MSD Radix,1.80071,0
+2000,reversed,MSD+Quick,0.907917,22915
+2000,almost_sorted,MergeSort,2.83571,25489
+2000,almost_sorted,QuickSort,2.16267,69933
+2000,almost_sorted,MSD Radix,1.75692,0
+2000,almost_sorted,MSD+Quick,0.56375,10660
+2100,random,MergeSort,4.29258,39064
+2100,random,QuickSort,0.948375,23843
+2100,random,MSD Radix,2.06333,0
+2100,random,MSD+Quick,0.543042,8546
+2100,reversed,MergeSort,3.42008,23378
+2100,reversed,QuickSort,2.81392,94301
+2100,reversed,MSD Radix,1.948,0
+2100,reversed,MSD+Quick,0.943042,25183
+2100,almost_sorted,MergeSort,3.14346,27793
+2100,almost_sorted,QuickSort,2.40267,76873
+2100,almost_sorted,MSD Radix,1.82083,0
+2100,almost_sorted,MSD+Quick,0.637875,11674
+2200,random,MergeSort,4.47371,41380
+2200,random,QuickSort,0.853417,22039
+2200,random,MSD Radix,1.99217,0
+2200,random,MSD+Quick,0.597333,8950
+2200,reversed,MergeSort,3.61738,23869
+2200,reversed,QuickSort,3.16683,100455
+2200,reversed,MSD Radix,1.99721,0
+2200,reversed,MSD+Quick,1.01871,27586
+2200,almost_sorted,MergeSort,3.35625,31313
+2200,almost_sorted,QuickSort,2.51408,79731
+2200,almost_sorted,MSD Radix,2.02908,0
+2200,almost_sorted,MSD+Quick,0.651916,12421
+2300,random,MergeSort,4.77604,43363
+2300,random,QuickSort,1.08417,27495
+2300,random,MSD Radix,2.21767,0
+2300,random,MSD+Quick,0.729708,9814
+2300,reversed,MergeSort,3.80358,24902
+2300,reversed,QuickSort,3.45283,107189
+2300,reversed,MSD Radix,2.134,0
+2300,reversed,MSD+Quick,1.16467,29837
+2300,almost_sorted,MergeSort,3.56342,33742
+2300,almost_sorted,QuickSort,2.83375,86769
+2300,almost_sorted,MSD Radix,2.14292,0
+2300,almost_sorted,MSD+Quick,0.770833,13488
+2400,random,MergeSort,4.86675,46046
+2400,random,QuickSort,1.08004,27349
+2400,random,MSD Radix,2.31133,0
+2400,random,MSD+Quick,0.669583,10428
+2400,reversed,MergeSort,4.27317,25758
+2400,reversed,QuickSort,3.33883,111398
+2400,reversed,MSD Radix,2.27121,0
+2400,reversed,MSD+Quick,1.20379,32241
+2400,almost_sorted,MergeSort,3.72467,34435
+2400,almost_sorted,QuickSort,2.70554,83496
+2400,almost_sorted,MSD Radix,2.15442,0
+2400,almost_sorted,MSD+Quick,0.769583,14219
+2500,random,MergeSort,5.11521,48112
+2500,random,QuickSort,1.13775,29569
+2500,random,MSD Radix,2.43596,0
+2500,random,MSD+Quick,0.723666,11111
+2500,reversed,MergeSort,4.29258,27241
+2500,reversed,QuickSort,3.75517,116256
+2500,reversed,MSD Radix,2.42554,0
+2500,reversed,MSD+Quick,1.36725,35205
+2500,almost_sorted,MergeSort,4.1195,35893
+2500,almost_sorted,QuickSort,2.65696,79562
+2500,almost_sorted,MSD Radix,2.43692,0
+2500,almost_sorted,MSD+Quick,0.867375,15317
+2600,random,MergeSort,5.56167,50375
+2600,random,QuickSort,1.10417,29435
+2600,random,MSD Radix,2.66079,0
+2600,random,MSD+Quick,0.742333,11663
+2600,reversed,MergeSort,4.51133,28883
+2600,reversed,QuickSort,3.77954,122534
+2600,reversed,MSD Radix,2.53525,0
+2600,reversed,MSD+Quick,1.426,36797
+2600,almost_sorted,MergeSort,3.88546,37634
+2600,almost_sorted,QuickSort,2.81596,90281
+2600,almost_sorted,MSD Radix,2.35767,0
+2600,almost_sorted,MSD+Quick,0.8235,16058
+2700,random,MergeSort,5.58279,52884
+2700,random,QuickSort,1.09129,28530
+2700,random,MSD Radix,2.81562,0
+2700,random,MSD+Quick,0.915834,12241
+2700,reversed,MergeSort,4.60042,30833
+2700,reversed,QuickSort,4.13675,128481
+2700,reversed,MSD Radix,2.76963,0
+2700,reversed,MSD+Quick,1.53713,39593
+2700,almost_sorted,MergeSort,4.13979,38084
+2700,almost_sorted,QuickSort,3.39429,105384
+2700,almost_sorted,MSD Radix,2.60221,0
+2700,almost_sorted,MSD+Quick,0.887375,16997
+2800,random,MergeSort,6.01167,55444
+2800,random,QuickSort,1.11617,31410
+2800,random,MSD Radix,2.77562,0
+2800,random,MSD+Quick,0.822417,12817
+2800,reversed,MergeSort,4.60017,30753
+2800,reversed,QuickSort,4.1615,134984
+2800,reversed,MSD Radix,2.84783,0
+2800,reversed,MSD+Quick,1.51833,42392
+2800,almost_sorted,MergeSort,4.26375,40393
+2800,almost_sorted,QuickSort,3.52229,111203
+2800,almost_sorted,MSD Radix,2.62183,0
+2800,almost_sorted,MSD+Quick,0.992,18000
+2900,random,MergeSort,6.07333,57424
+2900,random,QuickSort,1.26075,33613
+2900,random,MSD Radix,3.10358,0
+2900,random,MSD+Quick,0.841583,13248
+2900,reversed,MergeSort,4.95033,32698
+2900,reversed,QuickSort,4.43721,139695
+2900,reversed,MSD Radix,2.78608,0
+2900,reversed,MSD+Quick,1.55433,44989
+2900,almost_sorted,MergeSort,4.62733,44115
+2900,almost_sorted,QuickSort,3.58229,115150
+2900,almost_sorted,MSD Radix,2.90388,0
+2900,almost_sorted,MSD+Quick,0.9795,18977
+3000,random,MergeSort,6.26129,60063
+3000,random,QuickSort,1.28879,34017
+3000,random,MSD Radix,3.11408,0
+3000,random,MSD+Quick,0.89225,13703
+3000,reversed,MergeSort,5.36283,34392
+3000,reversed,QuickSort,4.55479,145118
+3000,reversed,MSD Radix,3.23883,0
+3000,reversed,MSD+Quick,1.62425,47019
+3000,almost_sorted,MergeSort,4.61287,44589
+3000,almost_sorted,QuickSort,3.76617,118142
+3000,almost_sorted,MSD Radix,3.12183,0
+3000,almost_sorted,MSD+Quick,0.96025,20072
